@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "climate-change"
+  },
+  "course_image": {
+    "content": "",
+    "website": "climate-change"
+  },
+  "course_title": "Climate Change",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "A course revealing the realities of climate change",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "CC100",
+  "learning_resource_types": [],
+  "site_uid": "5c7d2c04-75ea-4d51-835b-2b6cad331537",
+  "site_short_id": "climate-change",
+  "site_url_path": "courses/cc100-climate-change-spring-2025"
+}
