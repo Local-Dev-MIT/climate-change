@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: This is the only page for this course
+description: This is the only page for this course and the most awesome one
 draft: false
 title: Only Page
 uid: bb583173-719d-4ff2-b846-4b540c1396b4
